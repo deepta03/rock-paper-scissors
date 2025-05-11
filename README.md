@@ -1,1 +1,2 @@
 # rock-paper-scissors
+Implemented the game [Rock Paper Scissors](https://www.wikihow.com/Play-Rock,-Paper,-Scissors) in JavaScript. The game is played entirely in the console where the user is prompted for human input and the computer randomly chooses "rock", "paper" or "scissors". Human and Computer scores are updated after each round of play. The game will play 5 rounds and after that the final winner is announced. 
